@@ -111,12 +111,6 @@ img{
     position: fixed;
     display: none;
     border: 2px dashed var(--green);
-
-    /*top: 0;
-    left: 0;
-    right: 0;
-    width: 200px;
-    height: 200px;*/
 }
 
 #crop-image, #download{
